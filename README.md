@@ -55,7 +55,7 @@ Please find my submission for the **Front-End Internship** assignment. I’ve im
 ```bash
 # clone
 git clone https://github.com/DivyanshiGupta-18/alpha-car
-cd cd alpha-car-app
+cd alpha-car-app
 
 # install deps
 npm install
