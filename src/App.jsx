@@ -16,7 +16,7 @@ function App() {
 
 
   return (
-    <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "25px"}}>
+    <div style={{ maxWidth: "1200px", margin: "0 auto", paddingLeft: "25px", paddingBottom: "25px"}}>
       <h1 style={{ textAlign: "center", margin: "20px 0" , fontSize: "2.5rem", color: "#42a089"}}>Mahindra Thar LX - Premium Edition</h1>
         <p style={{ textAlign: "center", fontSize: " 1.1rem" }}>Discover the power and elegance of this exceptional vehicle</p>
       <div style={{
@@ -26,7 +26,7 @@ function App() {
 }}>
   {/* Left Column */}
   <div style={{
-    flex: "0 0 60%",
+    flex: "0 0 62%",
     minWidth: "300px",
     textAlign: "center",
   }}>
@@ -36,7 +36,7 @@ function App() {
 
   {/* Right Column */}
   <div style={{
-    flex: "0 0 33%",
+    flex: "0 0 35%",
     minWidth: "280px",
     display: "flex",
     flexDirection: "column",
